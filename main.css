@@ -818,6 +818,7 @@ header.active .bars img{
 .bg-footer{
     width: 90%;
     margin: 0px auto;
+    padding-bottom: 20px;
 }
 .bg-footer .footer-flex{
     display: flex;
