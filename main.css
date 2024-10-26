@@ -104,7 +104,7 @@ header.active .bars img{
     }
 }
 .big-bg{
-    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(pic/bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-position: center;
     background-repeat: no repeat;
@@ -858,21 +858,6 @@ header.active .bars img{
     height: 1px;
     width: 100%;
 }
-.bg-footer .copy{
-    margin: 15px 0px;
-    text-align: center;
-}
-.bg-footer .copy section{
-    font-size: 14px;
-    text-transform: capitalize;
-}
-
-.bg-footer .copy span{
-    font-weight: bold;
-    color: var(--main-color);
-}
-
-/* media query  */
 
 @media(max-width: 768px){
     .bg-footer .footer-flex .footer1{
